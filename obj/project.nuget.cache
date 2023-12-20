@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "q4F05WkRnq5cFUym96AY0khWWilbw9pmY8Pd/SQxUfTM0LdnaxhjivN54gjqFhwIQNYCAYVmRpVnuj3Jasm5eQ==",
+  "success": true,
+  "projectFilePath": "D:\\backend\\dotNet\\projects\\tasks\\task_day04\\task_day04_01\\task_day04_01\\task_day04_02\\task_day04_02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yassm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\yassm\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\yassm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\yassm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
